@@ -1,0 +1,9 @@
+PROCEDURE procedure_name(num:INTEGER)
+VAR
+ v1[] = {3, -5, 4}
+        v2[] = {2, 6, 5}
+        BEGIN
+    WHILE (condition) DO
+        set_instructions
+    END_WHILE
+END
